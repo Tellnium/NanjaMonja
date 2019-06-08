@@ -1,0 +1,11 @@
+C:\Users\Tellnium\source\repos\nanja\nanja\bin\Release\nanja.exe.config
+C:\Users\Tellnium\source\repos\nanja\nanja\bin\Release\nanja.exe
+C:\Users\Tellnium\source\repos\nanja\nanja\bin\Release\nanja.pdb
+C:\Users\Tellnium\source\repos\nanja\nanja\obj\Release\nanja.csprojAssemblyReference.cache
+C:\Users\Tellnium\source\repos\nanja\nanja\obj\Release\nanja.game_scr.resources
+C:\Users\Tellnium\source\repos\nanja\nanja\obj\Release\nanja.start_scr.resources
+C:\Users\Tellnium\source\repos\nanja\nanja\obj\Release\nanja.Properties.Resources.resources
+C:\Users\Tellnium\source\repos\nanja\nanja\obj\Release\nanja.csproj.GenerateResource.cache
+C:\Users\Tellnium\source\repos\nanja\nanja\obj\Release\nanja.csproj.CoreCompileInputs.cache
+C:\Users\Tellnium\source\repos\nanja\nanja\obj\Release\nanja.exe
+C:\Users\Tellnium\source\repos\nanja\nanja\obj\Release\nanja.pdb
